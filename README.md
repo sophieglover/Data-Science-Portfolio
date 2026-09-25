@@ -8,3 +8,4 @@ This repository contains a selection of data science projects I completed over t
 multiple linear regression model to uncover underlying relationships between variables.
 * **telco_customer_churn.ipynb** : After preprocessing the data, I applied machine learning models such as logistic regression and random forests to help forecast customer churn. 
 * **neural_network_task.ipynb** : I created a program that helps generate slogans based on industry, and predict the industry based on a given slogan.
+* **sentiment_analysis** : A program that performs sentiment analysis on a dataset of product reviews.
